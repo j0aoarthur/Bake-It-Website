@@ -1,3 +1,5 @@
+CREATE DATABASE cake_store;
+
 USE cake_store;
 
 CREATE TABLE cakes (
