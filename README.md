@@ -47,8 +47,8 @@ Este projeto consiste em um **site de catálogo de bolos** desenvolvido em PHP, 
     - Utilize o comando `php -S localhost:8000` ou configure o servidor Apache/Nginx.
 
 5. Acesse no navegador:
-    - Catálogo de bolos: `http://localhost/catalogo-bolos`
-    - Administração: `http://localhost/catalogo-bolos/admin/login.php`
+    - Catálogo de bolos: `http://localhost/index.php`
+    - Administração: `http://localhost/pages/login.php`
 
 ## Credenciais de Acesso
 
